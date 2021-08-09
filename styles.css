@@ -1,0 +1,27 @@
+body {
+    background-image: url('backgroundMobile.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overscroll-behavior: contain;
+    margin-bottom: 40px;
+    padding-bottom: 60px;
+    height: 100%;
+    overflow: auto;
+}
+
+.header {
+    justify-content: center;
+}
+
+
+
+@media (min-width: 900px) {
+    body {
+        background-image: url('backgroundDesktop.png');
+    }
+}
