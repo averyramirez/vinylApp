@@ -18,6 +18,10 @@ body {
     justify-content: center;
 }
 
+h1 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
 
 
 @media (min-width: 900px) {
