@@ -28,6 +28,12 @@ body {
     margin-top: 40px;
 }
 
+.tagline {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    text-shadow: none;
+}
+
 
 
 
@@ -40,5 +46,10 @@ body {
         font-size: 120px;
         text-shadow: 1px 1px rgb(204,204,90);
         margin-top: 5px;
+    }
+
+    .tagline {
+        font-size: 30px;
+        text-shadow: 1px 1px black;
     }
 }
