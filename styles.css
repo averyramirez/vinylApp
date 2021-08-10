@@ -14,18 +14,27 @@ body {
     overflow: auto;
 }
 
-.header {
+.container {
+    display: flex;
     justify-content: center;
 }
 
-h1 {
+.header {
+    justify-content: center;
+    display: flex;
     font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 50px;
 }
+
 
 
 
 @media (min-width: 900px) {
     body {
         background-image: url('backgroundDesktop.png');
+    }
+
+    .header {
+        font-size: 100px;
     }
 }
