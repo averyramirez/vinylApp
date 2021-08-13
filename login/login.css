@@ -1,3 +1,10 @@
 h1 {
-    color: rgb(67, 221, 201);
+    color: rgb(204,204,90);
+}
+
+.loginContainer {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 250px;
 }
