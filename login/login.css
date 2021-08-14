@@ -1,16 +1,9 @@
 body {
-        background-position: bottom;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        margin: 0;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        overscroll-behavior: contain;
-        padding-bottom: 50px;
-        height: 100%;
-        overflow: auto;
+    background: linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, 
+                linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, 
+                linear-gradient(315deg, #ECEDDC 25%, transparent 25%), 
+                linear-gradient(45deg, #ECEDDC 25%, transparent 25%); 
+    background-size: 100px 100px; 
     }
 
 
@@ -23,7 +16,7 @@ body {
 }
 
 .loginContainer {
-    background-color: rgba(204,204,90,0.1);
+    background-color: rgba(255, 255, 255, 0.8);
     margin-top: 150px;
     margin-left: 5px;
     margin-right: 5px;
