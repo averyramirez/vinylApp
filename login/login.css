@@ -1,5 +1,4 @@
 body {
-        /* background-image: url('backgroundMobile.png'); */
         background-position: bottom;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -50,10 +49,6 @@ form {
 
 
 @media (min-width: 900px) {
-    body {
-        /* background-image: url('backgroundDesktop.png'); */
-    }
-
     .header {
         font-size: 90px;
         margin-top: 10px;
