@@ -1,3 +1,32 @@
+body {
+    /* background-image: url('catalogDesktopBackground.png'); */
+    background-color: black;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overscroll-behavior: contain;
+    padding-bottom: 50px;
+    height: 100%;
+    overflow: auto;
+}
+
+html {
+
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+
 
 .navbarIcon {
     width: 30px;
@@ -5,7 +34,17 @@
 }
 
 
+.header {
+    color: black;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-shadow: 1px 1px rgb(204,204,90);
+    font-size: 34px;
+}
+
+
+
 @media (min-width: 900px) {
+
     .navbar {
         margin-left: 200px;
         margin-right: 200px;
@@ -15,5 +54,15 @@
         width: 50px;
         height: 50px;
     }
+
+    .header {
+        color: black;
+        font-family: 'Zen Tokyo Zoo', cursive;
+        text-shadow: 1px 1px rgb(204,204,90);
+        font-size: 48px;
+        letter-spacing: 2px;
+    }
+
+
     
 }
