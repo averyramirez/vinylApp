@@ -32,11 +32,12 @@ form {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     letter-spacing: 2px;
+    color: rgb(66, 66, 66);
 }
 
-.btn {
-    margin-bottom: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.buttonSubmit {
+    font-size: 28px;
+    font-family: 'Zen Tokyo Zoo', cursive;
     letter-spacing: 2px;
 }
 
@@ -54,8 +55,11 @@ form {
     }
 
     .form-label {
-        font-size: 36px;
-        font-family: 'Zen Tokyo Zoo', cursive;
+        font-size: 32px;
+    }
+
+    .buttonSubmit {
+        font-size: 32px;
     }
     
 }
