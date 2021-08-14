@@ -51,10 +51,6 @@ a:link {
     color: rgb(204,204,90);
 }
 
-.carouselImage {
-    height: 250px;
-}
-
 
 @media (min-width: 900px) {
     body {
@@ -81,8 +77,5 @@ a:link {
         height: 50px;
     }
 
-    .carouselImage {
-        height: 400px;
-    }
     
 }
