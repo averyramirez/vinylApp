@@ -1,5 +1,5 @@
 body {
-        background-image: url('backgroundMobile.png');
+        /* background-image: url('backgroundMobile.png'); */
         background-position: bottom;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -18,13 +18,14 @@ body {
 .header {
     justify-content: center;
     display: flex;
-    text-shadow: 1px 1px rgb(204,204,90);
+    /* text-shadow: 1px 1px rgb(204,204,90); */
     font-family: 'Zen Tokyo Zoo', cursive;
     font-size: 60px;
+    letter-spacing: 5px;
 }
 
 .loginContainer {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(204,204,90,0.1);
     margin-top: 150px;
     margin-left: 5px;
     margin-right: 5px;
@@ -33,17 +34,24 @@ body {
 form {
     margin-left: 20px;
     margin-right: 20px;
+}
 
+.form-label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
 }
 
 .btn {
     margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
 }
 
 
 @media (min-width: 900px) {
     body {
-        background-image: url('backgroundDesktop.png');
+        /* background-image: url('backgroundDesktop.png'); */
     }
 
     .header {
@@ -55,6 +63,11 @@ form {
         margin-left: 300px;
         margin-right: 300px;
         margin-top: 250px;
+    }
+
+    .form-label {
+        font-size: 36px;
+        font-family: 'Zen Tokyo Zoo', cursive;
     }
     
 }
