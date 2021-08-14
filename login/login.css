@@ -17,7 +17,6 @@ body {
 .header {
     justify-content: center;
     display: flex;
-    /* text-shadow: 1px 1px rgb(204,204,90); */
     font-family: 'Zen Tokyo Zoo', cursive;
     font-size: 60px;
     letter-spacing: 5px;
