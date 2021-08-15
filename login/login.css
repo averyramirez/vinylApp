@@ -36,6 +36,11 @@ form {
     color: rgb(66, 66, 66);
 }
 
+.form-control:focus {
+    border-color: rgb(204, 204, 149);
+    box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
+} 
+
 .buttonSubmit {
     font-size: 28px;
     font-family: 'Zen Tokyo Zoo', cursive;
