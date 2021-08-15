@@ -1,8 +1,8 @@
 body {
-    background: linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, 
-                linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, 
-                linear-gradient(315deg, #ECEDDC 25%, transparent 25%), 
-                linear-gradient(45deg, #ECEDDC 25%, transparent 25%); 
+    background: linear-gradient(135deg, rgb(206, 218, 216) 25%, transparent 25%) -50px 0, 
+                linear-gradient(225deg, rgb(206, 218, 216) 25%, transparent 25%) -50px 0, 
+                linear-gradient(315deg, rgb(206, 218, 216) 25%, transparent 25%), 
+                linear-gradient(45deg, rgb(206, 218, 216) 25%, transparent 25%); 
     background-size: 100px 100px; 
     }
 
@@ -11,6 +11,7 @@ body {
     justify-content: center;
     display: flex;
     font-family: 'Zen Tokyo Zoo', cursive;
+    text-shadow: 2px 2px rgb(204, 204, 149);
     font-size: 60px;
     letter-spacing: 5px;
 }
