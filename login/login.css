@@ -13,7 +13,7 @@ body {
     font-family: 'Zen Tokyo Zoo', cursive;
     text-shadow: 2px 2px rgb(204, 204, 149);
     font-size: 60px;
-    letter-spacing: 5px;
+    letter-spacing: 8px;
 }
 
 .loginContainer {
@@ -52,6 +52,7 @@ form {
     .header {
         font-size: 90px;
         margin-top: 10px;
+        letter-spacing: 8px;
     }
 
     .loginContainer {
