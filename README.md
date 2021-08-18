@@ -1,2 +1,3 @@
 # Vinyl Collecting App
-- Use Discog's API to pull information about vinyl records
+- Curate a personal catalog of your vinyl collection
+- Use data from Discog's API to render release information
