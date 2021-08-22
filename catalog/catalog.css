@@ -87,6 +87,11 @@ a {
     box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
 }
 
+.backToBlack img {
+    width: 200px;
+    height: 200px;
+}
+
 
 
 
