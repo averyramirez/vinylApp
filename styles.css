@@ -73,11 +73,6 @@ a:hover {
         text-shadow: 1px 1px rgb(204,204,90);
     }
 
-    .tagline {
-        font-size: 30px;
-        text-shadow: 1px 1px black;
-    }
-
     .navbar {
         margin-left: 200px;
         margin-right: 200px;
