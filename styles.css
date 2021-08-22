@@ -78,8 +78,8 @@ a:hover {
     }
 
     .navbar {
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 400px;
+        margin-right: 400px;
     }
 
     .navbarIcon {
@@ -91,14 +91,15 @@ a:hover {
         font-size: 120px;
         color: rgb(0, 0, 0);
         text-shadow:
-            0 0 7px #fff,
-            0 0 10px #fff,
-            0 0 21px #fff,
-            0 0 42px rgb(204,204,90),
-            0 0 82px rgb(204,204,90),
-            0 0 92px rgb(204,204,90),
-            0 0 102px rgb(204,204,90),
-            0 0 151px rgb(204,204,90);
+            0 0 13px #fff,
+            0 0 16px #fff,
+            0 0 27px #fff,
+            0 0 48px rgb(204,204,90),
+            0 0 88px rgb(204,204,90),
+            0 0 98px rgb(204,204,90),
+            0 0 108px rgb(204,204,90),
+            0 0 157px rgb(204,204,90),
+            0 0 181px rgb(204,204,90);
       }
 
     
