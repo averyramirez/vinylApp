@@ -14,7 +14,6 @@
     .then( (releases) => generateHtml(releases) )
   
   const generateHtml = (data) => {
-    console.log(data.images[0].resource_url)
     const html = `
         <img src=${data.images[0].resource_url}>
     `
