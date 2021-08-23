@@ -19,26 +19,10 @@ html {
     height: 100%;
 }
 
+
 .container {
-    display: flex;
-    justify-content: center;
-}
-
-.header {
     justify-content: center;
     display: flex;
-    font-family: 'Zen Tokyo Zoo', cursive;
-    margin-bottom: 40px;
-    letter-spacing: 2px;
-}
-
-.navbar {
-    margin-left: 5px;
-    margin-right: 5px;
-}
-
-.navbar-text {
-    color: rgb(204,204,90);
 }
 
 .navbarIcon {
@@ -46,18 +30,74 @@ html {
     height: 30px;
 }
 
+.navbarLink {
+    font-size: 100px;
+}
+
+.header {
+    color: black;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-shadow: 1px 1px rgb(204, 204, 149);
+    font-size: 34px;
+    letter-spacing: 2px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.catalogBody {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px 15px;
+}
+
+
+.input-group {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.form-control:focus {
+    border-color: rgb(204, 204, 149);
+    box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
+} 
+
+
+.dropdown {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
 a {
-    font-family: 'Doppio One', sans-serif;
-    color: black !important;
+    color: white !important;
     text-decoration: none;
+    font-family: 'Doppio One', sans-serif;
     font-size: 22px;
     letter-spacing: 1px;
   }
 
-a:hover {
+  a:hover {
     text-shadow: 2px 2px rgb(204,204,90);
     letter-spacing: 2px;
     font-size: 24px;
+}
+
+.btn:focus {
+    border-color: rgb(204, 204, 149);
+    box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
+}
+
+.albumArtwork {
+    justify-content: space-between;
+    display: flex;
+}
+
+.albumArtwork img {
+    width: 125px;
+    height: 125px;
 }
 
 .neonText {
@@ -65,16 +105,11 @@ a:hover {
     font-size: 55px;
     text-shadow: none;
   }
-  
+
 
 @media (min-width: 900px) {
     body {
         background-image: url('backgroundDesktop.png');
-    }
-
-    .header {
-        font-size: 120px;
-        margin-top: 250px;
     }
 
     .navbar {
@@ -85,6 +120,63 @@ a:hover {
     .navbarIcon {
         width: 50px;
         height: 50px;
+    }
+
+    .header {
+        font-size: 60px;
+        letter-spacing: 5px;
+        margin-top: 250px;
+        margin-bottom: 200px;
+    }
+
+    .catalogBody {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 40px;
+    }
+
+    .catalogImage {
+        width: 160px;
+        margin-bottom: 6px;
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+
+    .personalCatalog {
+        margin-bottom: 40px;
+    }
+
+    .input-group {
+        margin-left: 250px;
+        margin-right: 250px;
+        margin-bottom: 10px;
+    }
+
+    .form-control:focus {
+        border-color: rgb(204, 204, 149);
+        box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
+    } 
+    
+    .dropdown {
+        margin-bottom: 10px;
+        margin-left: 45px;
+    }
+
+    .btn:focus {
+        border-color: rgb(204, 204, 149);
+        box-shadow: 0 0 0 0.2rem rgba(204, 204, 149, 0.25);
+    }
+
+    .albumArtwork {
+        justify-content: center;
+        display: flex;
+    }
+    
+
+    .albumArtwork img {
+        width: 200px;
+        height: 200px;
+        margin-top: 20px;
     }
 
     .neonText {
@@ -101,6 +193,5 @@ a:hover {
             0 0 157px rgb(204,204,90),
             0 0 181px rgb(204,204,90);
       }
-
     
 }
