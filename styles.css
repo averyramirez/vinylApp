@@ -97,8 +97,8 @@ a {
 }
 
 .albumArtwork img {
-    width: 125px;
-    height: 125px;
+    width: 115px;
+    height: 115px;
     margin-bottom: 3px;
 }
 
@@ -125,9 +125,8 @@ a {
     }
 
     .header {
-        font-size: 60px;
         letter-spacing: 5px;
-        margin-top: 380px;
+        margin-top: 350px;
         margin-bottom: 200px;
     }
 
@@ -182,7 +181,7 @@ a {
     }
 
     .neonText {
-        font-size: 120px;
+        font-size: 140px;
         color: rgb(0, 0, 0);
         text-shadow:
             0 0 13px #fff,
