@@ -73,17 +73,17 @@ html {
 }
 
 a {
-    color: white !important;
+    color: black !important;
     text-decoration: none;
     font-family: 'Doppio One', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     letter-spacing: 1px;
   }
 
   a:hover {
     text-shadow: 2px 2px rgb(204,204,90);
-    letter-spacing: 2px;
-    font-size: 24px;
+    letter-spacing: 1px;
+    font-size: 20px;
 }
 
 .btn:focus {
