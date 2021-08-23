@@ -1,19 +1,19 @@
-const allIReally = {
-    url4470381: 'https://api.discogs.com/',
-    type4470381: 'releases',
-    id4470381: '4470381',
-    key4470381: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
-    secret4470381: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
+{const allIReally = {
+    url: 'https://api.discogs.com/',
+    type: 'releases',
+    id: '4470381',
+    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
-  const {url4470381, type4470381, id4470381, key4470381, secret4470381} = allIReally
-  const releaseUrl4470381 = `${url4470381}${type4470381}/${id4470381}?key=${key4470381}&secret=${secret4470381}`
+  const {url, type, id, key, secret} = allIReally
+  const releaseUrl = `${url}${type}/${id}?key=${key}&secret=${secret}`
   
-  fetch(releaseUrl4470381)
+  fetch(releaseUrl)
     .then( (data) => data.json())
-    .then( (releases) => generateHtml4470381(releases) )
+    .then( (releases) => generateHtml(releases) )
   
-  const generateHtml4470381 = (data) => {
+  const generateHtml = (data) => {
     console.log(data.images[0].resource_url)
     const html = `
         <img src=${data.images[0].resource_url}>
@@ -21,3 +21,4 @@ const allIReally = {
     const allIReallyDiv = document.querySelector('.allIReally')
     allIReallyDiv.innerHTML = html
   }
+};
