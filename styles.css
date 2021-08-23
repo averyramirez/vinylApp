@@ -99,7 +99,7 @@ a {
 .albumArtwork img {
     width: 90px;
     height: 90px;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .row {
@@ -180,8 +180,8 @@ a {
     
 
     .albumArtwork img {
-        width: 190px;
-        height: 190px;
+        width: 180px;
+        height: 180px;
         margin-top: 20px;
     }
 
@@ -199,5 +199,10 @@ a {
             0 0 157px rgb(204,204,90),
             0 0 181px rgb(204,204,90);
       }
+
+    .row {
+        margin-left: 10px;
+        margin-left: 10px;
+    }
     
 }
