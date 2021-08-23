@@ -1,19 +1,19 @@
-const ultraviolence = {
-    url5799966: 'https://api.discogs.com/',
-    type5799966: 'releases',
-    id5799966: '5799966',
-    key5799966: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
-    secret5799966: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
+{const ultraviolence = {
+    url: 'https://api.discogs.com/',
+    type: 'releases',
+    id: '5799966',
+    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
-  const {url5799966, type5799966, id5799966, key5799966, secret5799966} = ultraviolence
-  const releaseUrl5799966 = `${url5799966}${type5799966}/${id5799966}?key=${key5799966}&secret=${secret5799966}`
+  const {url, type, id, key, secret} = ultraviolence
+  const releaseUrl = `${url}${type}/${id}?key=${key}&secret=${secret}`
   
-  fetch(releaseUrl5799966)
+  fetch(releaseUrl)
     .then( (data) => data.json())
-    .then( (releases) => generateHtml5799966(releases) )
+    .then( (releases) => generateHtml(releases) )
   
-  const generateHtml5799966 = (data) => {
+  const generateHtml = (data) => {
     console.log(data.images[0].resource_url)
     const html = `
         <img src=${data.images[0].resource_url}>
@@ -21,3 +21,4 @@ const ultraviolence = {
     const ultraviolenceDiv = document.querySelector('.ultraviolence')
     ultraviolenceDiv.innerHTML = html
   }
+};
