@@ -42,12 +42,13 @@ html {
     letter-spacing: 2px;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
 .catalogBody {
     margin-left: 15px;
     margin-right: 15px;
+    margin-top: 50px;
     margin-bottom: 40px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 15px 15px;
@@ -98,6 +99,7 @@ a {
 .albumArtwork img {
     width: 125px;
     height: 125px;
+    margin-bottom: 3px;
 }
 
 .neonText {
@@ -125,7 +127,7 @@ a {
     .header {
         font-size: 60px;
         letter-spacing: 5px;
-        margin-top: 250px;
+        margin-top: 380px;
         margin-bottom: 200px;
     }
 
