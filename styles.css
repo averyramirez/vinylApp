@@ -92,13 +92,13 @@ a {
 }
 
 .albumArtwork {
-    justify-content: space-between;
+    justify-content: center;
     display: flex;
 }
 
 .albumArtwork img {
-    width: 115px;
-    height: 115px;
+    width: 100px;
+    height: 100px;
     margin-bottom: 3px;
 }
 
@@ -126,7 +126,7 @@ a {
 
     .header {
         letter-spacing: 5px;
-        margin-top: 350px;
+        margin-top: 275px;
         margin-bottom: 200px;
     }
 
