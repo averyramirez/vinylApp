@@ -1,3 +1,3 @@
 # Vinyl Collecting App
-- Curate a personal catalog of your vinyl collection
-- Use data from Discog's API to render release information
+- Hosted as a [page](https://averyramirez.github.io/vinylApp/) on GitHub
+- Uses Discog's API to render release information for vinyl records
