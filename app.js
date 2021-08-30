@@ -1,6 +1,10 @@
-console.log("working!")
+{
+    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+    var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+    return new bootstrap.Popover(popoverTriggerEl)
+    });
 
-// add in Discogs API
-// create a CRUD using API
-// pre-populate with my own collection
-// allow user to CRUD new and exisiting items
+    var popover = new bootstrap.Popover(document.querySelector('.popover-dismiss'), {
+        trigger: 'focus'
+      });
+}
