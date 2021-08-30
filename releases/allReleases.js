@@ -10,7 +10,7 @@
     url: 'https://api.discogs.com/',
     type: 'releases',
     id: '1013969',
-    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    key: 'OybxAqyJeOwAFtZmqIGa',
     secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
@@ -41,7 +41,7 @@
     url: 'https://api.discogs.com/',
     type: 'releases',
     id: '3567371',
-    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    key: 'OybxAqyJeOwAFtZmqIGa',
     secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
@@ -69,7 +69,7 @@
     url: 'https://api.discogs.com/',
     type: 'releases',
     id: '10395276',
-    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    key: 'OybxAqyJeOwAFtZmqIGa',
     secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
@@ -97,7 +97,7 @@
     url: 'https://api.discogs.com/',
     type: 'releases',
     id: '4218423',
-    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    key: 'OybxAqyJeOwAFtZmqIGa',
     secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
@@ -125,7 +125,7 @@
     url: 'https://api.discogs.com/',
     type: 'releases',
     id: '1778025',
-    key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+    key: 'OybxAqyJeOwAFtZmqIGa',
     secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
   }
   
@@ -156,7 +156,7 @@
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '4470381',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -182,7 +182,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '5991169',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -208,7 +208,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '5532374',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -234,7 +234,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '7975996',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -260,7 +260,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '13666137',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -286,7 +286,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '1618266',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -314,7 +314,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '595732',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -341,7 +341,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '371984',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -372,7 +372,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '1547900',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -400,7 +400,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '3354383',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -428,7 +428,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '11015464',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -455,7 +455,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '5799966',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -482,7 +482,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '10895108',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -508,7 +508,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '19948519',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -535,7 +535,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '17035572',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -572,7 +572,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '9162476',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -599,7 +599,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '3822688',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -630,7 +630,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '3617653',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -657,7 +657,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '871139',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -686,7 +686,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '5856861',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -720,7 +720,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '339019',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -748,7 +748,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '392586',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -782,7 +782,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '943730',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -810,7 +810,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '9506110',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -838,7 +838,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '10654633',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -869,7 +869,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '2315153',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -900,7 +900,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '4779571',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -927,7 +927,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '16164981',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -961,7 +961,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '4116887',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -989,7 +989,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '14167431',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1017,7 +1017,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '12816864',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1051,7 +1051,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '10647674',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1082,7 +1082,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '891539',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1110,7 +1110,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '402317',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1137,7 +1137,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '16330560',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1165,7 +1165,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '676489',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1196,7 +1196,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '1201881',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1224,7 +1224,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '1219372',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1252,7 +1252,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '56303',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
@@ -1289,7 +1289,7 @@ const generateHtml = (data) => {
   url: 'https://api.discogs.com/',
   type: 'releases',
   id: '2848009',
-  key: 'OybxAqyJeOwAFtZmqIGa&secret=zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy',
+  key: 'OybxAqyJeOwAFtZmqIGa',
   secret: 'zAsIKkTjuYXESOiOctsFyFmFYFtuRGoy'
 }
 
