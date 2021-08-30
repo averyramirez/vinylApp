@@ -1,0 +1,27 @@
+{
+  "name": "vinylapp",
+  "version": "1.0.0",
+  "description": "- Hosted as a [page](https://averyramirez.github.io/vinylApp/) on GitHub\r - Uses Discog's API to render release information for vinyl records",
+  "main": "app.js",
+  "dependencies": {
+    "aws": "^0.0.3-2",
+    "bootstrap": "^5.1.0",
+    "cors": "^2.8.5",
+    "disconnect": "^1.2.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averyramirez/vinylApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averyramirez/vinylApp/issues"
+  },
+  "homepage": "https://github.com/averyramirez/vinylApp#readme"
+}
