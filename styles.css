@@ -91,7 +91,18 @@ a {
     font-family: 'Zen Tokyo Zoo', cursive;
     font-size: 55px;
     text-shadow: none;
-  }
+}
+
+.popover {
+    justify-content: center;
+    white-space: pre-wrap;    
+}
+
+
+.popover-body {
+    font-size: 12px;
+    /* white-space: pre-wrap; */
+}
 
 
 @media (min-width: 900px) {
@@ -162,6 +173,17 @@ a {
     .row {
         margin-left: 10px;
         margin-left: 10px;
+    }
+
+    .popover {
+        background-color: white;
+        justify-content: center;
+        white-space: pre-wrap;
+    }
+
+    .popover-body {
+        font-size: 18px;
+        /* white-space: pre-wrap; */
     }
     
 }
