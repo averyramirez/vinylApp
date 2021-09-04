@@ -97,15 +97,17 @@ a {
     justify-content: center;
     align-items: center;
     white-space: pre-wrap;    
-    width: 100px;
+    width: 120px;
+    font-size: 9px;
 }
 
 
 .popover-body {
-    font-size: 12px;
+    font-size: 9px;
     /* white-space: pre-wrap; */
 }
 
+/* DESKTOP */
 
 @media (min-width: 900px) {
     body {
@@ -179,9 +181,10 @@ a {
 
     .popover {
         background-color: white;
+        align-items: center;
         justify-content: center;
         white-space: pre-wrap;
-        width: 150px;
+        width: 200px;
         font-size: 14px;
     }
 
