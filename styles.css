@@ -30,10 +30,6 @@ html {
     height: 30px;
 }
 
-.navbarLink {
-    font-size: 100px;
-}
-
 .header {
     color: black;
     font-family: 'Zen Tokyo Zoo', cursive;
@@ -60,14 +56,14 @@ a {
     color: black !important;
     text-decoration: none;
     font-family: 'Doppio One', sans-serif;
-    font-size: 20px;
+    font-size: 14px;
     letter-spacing: 1px;
   }
 
   a:hover {
     text-shadow: 2px 2px rgb(204,204,90);
     letter-spacing: 1px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 
