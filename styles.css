@@ -119,6 +119,14 @@ a {
         height: 50px;
     }
 
+    a {
+        font-size: 20px;
+      }
+    
+      a:hover {
+        font-size: 21px;
+    }
+
     .header {
         letter-spacing: 5px;
         margin-top: 275px;
