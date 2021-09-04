@@ -95,6 +95,7 @@ a {
 
 .popover {
     justify-content: center;
+    align-items: center;
     white-space: pre-wrap;    
     width: 100px;
 }
@@ -180,11 +181,12 @@ a {
         background-color: white;
         justify-content: center;
         white-space: pre-wrap;
-        width: 350px;
+        width: 150px;
+        font-size: 14px;
     }
 
     .popover-body {
-        font-size: 18px;
+        font-size: 14px;
         /* white-space: pre-wrap; */
     }
     
