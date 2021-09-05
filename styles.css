@@ -41,6 +41,7 @@ html {
     margin-top: 25px;
 }
 
+
 .catalogBody {
     margin-left: 15px;
     margin-right: 15px;
@@ -194,7 +195,6 @@ a {
 
     .popover-body {
         font-size: 14px;
-        /* white-space: pre-wrap; */
     }
     
 }
