@@ -117,6 +117,12 @@ a {
     color: white;
 }
 
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
 /* DESKTOP */
 
 @media (min-width: 900px) {
