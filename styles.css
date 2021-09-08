@@ -113,6 +113,10 @@ a {
     color: white;
 }
 
+.text-center {
+    color: white;
+}
+
 /* DESKTOP */
 
 @media (min-width: 900px) {
