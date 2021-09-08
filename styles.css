@@ -109,6 +109,10 @@ a {
     font-size: 9px;
 }
 
+.footer {
+    color: white;
+}
+
 /* DESKTOP */
 
 @media (min-width: 900px) {
