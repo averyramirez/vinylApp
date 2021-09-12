@@ -54,17 +54,16 @@ html {
 
 
 a {
-    color: black !important;
+    color: white !important;
     text-decoration: none;
     font-family: 'Doppio One', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 1px;
   }
 
   a:hover {
-    text-shadow: 2px 2px rgb(204,204,90);
-    letter-spacing: 1px;
-    font-size: 15px;
+    text-shadow: 1px 1px rgb(204,204,90);
+    font-size: 12px;
 }
 
 
@@ -118,6 +117,21 @@ a {
     box-shadow: none !important;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.bottomLogo {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
 
 /* DESKTOP */
 
@@ -128,11 +142,12 @@ a {
 
 
     a {
-        font-size: 20px;
+        font-size: 16px;
+        margin-bottom: 10px;
       }
     
       a:hover {
-        font-size: 21px;
+        font-size: 16px;
     }
 
     .header {
@@ -143,7 +158,7 @@ a {
     .catalogBody {
         margin-left: 400px;
         margin-right: 400px;
-        margin-bottom: 40px;
+        margin-bottom: 100px;
         background-color: rgba(255, 255, 255, 0.288);
     }
 
@@ -201,6 +216,12 @@ a {
 
     .popover-body {
         font-size: 14px;
+    }
+
+    .bottomLogo {
+        height: 35px;
+        width: 35px;
+        margin-bottom: 10px;
     }
     
 }
