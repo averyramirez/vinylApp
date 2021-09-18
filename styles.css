@@ -1,13 +1,6 @@
 body {
-    background-image: url('backgroundMobile.png');
-    background-position: bottom;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: rgb(44, 44, 44);
     margin: 0;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     overscroll-behavior: contain;
     padding-bottom: 50px;
     height: 100%;
@@ -29,14 +22,14 @@ html {
 
 
 .header {
-    color: black;
+    color: white;
     font-family: 'Zen Tokyo Zoo', cursive;
     text-shadow: 1px 1px rgb(204, 204, 149);
     font-size: 34px;
     letter-spacing: 2px;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 25px;
+    margin-top: 40px;
 }
 
 
@@ -45,7 +38,7 @@ html {
     margin-right: 15px;
     margin-top: 50px;
     margin-bottom: 40px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.767);
     border-radius: 15px 15px;
     box-shadow:none !important;
     outline:0px !important;
@@ -140,10 +133,6 @@ p {
 /* DESKTOP */
 
 @media (min-width: 900px) {
-    body {
-        background-image: url('backgroundDesktop.png');
-    }
-
 
     a {
         font-size: 16px;
@@ -156,14 +145,14 @@ p {
 
     .header {
         letter-spacing: 5px;
-        margin-top: 200px;
+        margin-top: 100px;
     }
 
     .catalogBody {
         margin-left: 400px;
         margin-right: 400px;
         margin-bottom: 100px;
-        background-color: rgba(255, 255, 255, 0.288);
+        background-color: rgba(255, 255, 255, 0.795);
     }
 
     .catalogImage {
@@ -191,17 +180,8 @@ p {
 
     .neonText {
         font-size: 140px;
-        color: rgb(0, 0, 0);
-        text-shadow:
-            0 0 13px #fff,
-            0 0 16px #fff,
-            0 0 27px #fff,
-            0 0 48px rgb(204,204,90),
-            0 0 88px rgb(204,204,90),
-            0 0 98px rgb(204,204,90),
-            0 0 108px rgb(204,204,90),
-            0 0 157px rgb(204,204,90),
-            0 0 181px rgb(204,204,90);
+        color: rgb(204,204,90);
+        text-shadow: 2px 2px white;
       }
 
     .row {
